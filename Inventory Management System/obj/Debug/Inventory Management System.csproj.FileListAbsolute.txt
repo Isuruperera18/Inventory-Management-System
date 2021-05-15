@@ -1,0 +1,84 @@
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Form1.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Log.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.All.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Users.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Categories.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Customers.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Orders.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+C:\Users\Isuru Perera\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ViewOrders.resources
